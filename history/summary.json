@@ -4,18 +4,19 @@
     "url": "https://www.powbot.org",
     "icon": "https://favicons.githubusercontent.com/www.powbot.org",
     "slug": "pow-bot-site",
-    "status": "up",
-    "uptime": "99.45%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.46%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
-    "uptimeYear": "99.45%",
+    "uptimeYear": "99.46%",
     "time": 822,
     "timeDay": 767,
     "timeWeek": 819,
     "timeMonth": 836,
     "timeYear": 822,
     "dailyMinutesDown": {
+      "2021-12-26": 0,
       "2021-12-10": 24,
       "2021-11-27": 32,
       "2021-11-23": 266
@@ -26,7 +27,7 @@
     "url": "https://api.powbot.org/products",
     "icon": "https://favicons.githubusercontent.com/api.powbot.org",
     "slug": "pow-bot-sdn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -38,6 +39,7 @@
     "timeMonth": 624,
     "timeYear": 618,
     "dailyMinutesDown": {
+      "2021-12-26": 0,
       "2021-11-27": 32,
       "2021-11-23": 240
     }
