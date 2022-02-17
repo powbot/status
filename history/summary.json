@@ -28,7 +28,7 @@
     "url": "https://api.powbot.org/products",
     "icon": "https://favicons.githubusercontent.com/api.powbot.org",
     "slug": "pow-bot-sdn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.58%",
     "uptimeDay": "83.03%",
     "uptimeWeek": "97.00%",
