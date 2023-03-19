@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.powbot.org.ico",
     "slug": "pow-bot-site",
     "status": "up",
-    "uptime": "96.23%",
+    "uptime": "96.24%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.56%",
+    "uptimeYear": "95.58%",
     "time": 1040,
-    "timeDay": 697,
-    "timeWeek": 721,
-    "timeMonth": 1454,
+    "timeDay": 689,
+    "timeWeek": 705,
+    "timeMonth": 1450,
     "timeYear": 975,
     "dailyMinutesDown": {
       "2023-02-16": 35,
@@ -44,8 +44,7 @@
       "2022-04-06": 217,
       "2022-04-05": 272,
       "2022-03-31": 24,
-      "2022-03-30": 446,
-      "2022-03-19": 117
+      "2022-03-30": 446
     }
   },
   {
@@ -54,16 +53,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.powbot.org.ico",
     "slug": "pow-bot-sdn",
     "status": "up",
-    "uptime": "41.21%",
+    "uptime": "41.33%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "76.28%",
-    "uptimeYear": "22.06%",
-    "time": 717,
-    "timeDay": 599,
-    "timeWeek": 586,
-    "timeMonth": 545,
-    "timeYear": 672,
+    "uptimeMonth": "79.57%",
+    "uptimeYear": "22.08%",
+    "time": 701,
+    "timeDay": 717,
+    "timeWeek": 611,
+    "timeMonth": 556,
+    "timeYear": 671,
     "dailyMinutesDown": {
       "2023-02-25": 316,
       "2023-02-24": 1440,
@@ -355,8 +354,7 @@
       "2022-04-05": 272,
       "2022-03-31": 179,
       "2022-03-30": 444,
-      "2022-03-26": 17,
-      "2022-03-19": 101
+      "2022-03-26": 17
     }
   }
 ]
