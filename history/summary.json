@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "96.07%",
-    "time": 1001,
-    "timeDay": 754,
-    "timeWeek": 811,
-    "timeMonth": 1980,
-    "timeYear": 1037,
+    "time": 1000,
+    "timeDay": 523,
+    "timeWeek": 756,
+    "timeMonth": 1971,
+    "timeYear": 1036,
     "dailyMinutesDown": {
       "2023-07-01": 16,
       "2023-02-16": 35,
@@ -43,15 +43,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.powbot.org.ico",
     "slug": "pow-bot-sdn",
     "status": "up",
-    "uptime": "52.38%",
+    "uptime": "52.46%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.50%",
+    "uptimeWeek": "98.75%",
     "uptimeMonth": "99.18%",
-    "uptimeYear": "37.12%",
-    "time": 1188,
-    "timeDay": 664,
-    "timeWeek": 10436,
-    "timeMonth": 5166,
+    "uptimeYear": "37.39%",
+    "time": 1187,
+    "timeDay": 418,
+    "timeWeek": 10241,
+    "timeMonth": 5160,
     "timeYear": 1246,
     "dailyMinutesDown": {
       "2023-07-08": 71,
@@ -292,8 +292,7 @@
       "2022-07-16": 1440,
       "2022-07-15": 1440,
       "2022-07-14": 1440,
-      "2022-07-13": 1440,
-      "2022-07-12": 1440
+      "2022-07-13": 1440
     }
   }
 ]
