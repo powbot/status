@@ -1,7 +1,7 @@
 url: https://www.powbot.org
-status: up
-code: 200
-responseTime: 974
-lastUpdated: 2023-08-18T23:02:56.784Z
-startTime: Mon Nov 15 2021 06:14:13 GMT+0000 (Coordinated Universal Time)
+status: down
+code: 406
+responseTime: 895
+lastUpdated: 2023-08-19T07:23:03.902Z
+startTime: 2021-11-15T06:14:13.000Z
 generator: Upptime <https://github.com/upptime/upptime>
