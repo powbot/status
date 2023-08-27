@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.powbot.org.ico",
     "slug": "pow-bot-site",
     "status": "up",
-    "uptime": "97.16%",
+    "uptime": "97.17%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.64%",
     "time": 975,
-    "timeDay": 726,
-    "timeWeek": 832,
-    "timeMonth": 823,
+    "timeDay": 971,
+    "timeWeek": 857,
+    "timeMonth": 829,
     "timeYear": 1050,
     "dailyMinutesDown": {
       "2023-07-01": 16,
@@ -32,15 +32,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.powbot.org.ico",
     "slug": "pow-bot-sdn",
     "status": "up",
-    "uptime": "55.73%",
+    "uptime": "55.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.62%",
-    "uptimeYear": "49.69%",
+    "uptimeYear": "49.96%",
     "time": 1162,
-    "timeDay": 1078,
-    "timeWeek": 905,
-    "timeMonth": 723,
+    "timeDay": 679,
+    "timeWeek": 923,
+    "timeMonth": 722,
     "timeYear": 1317,
     "dailyMinutesDown": {
       "2023-08-04": 31,
@@ -238,8 +238,7 @@
       "2022-08-31": 1440,
       "2022-08-30": 1440,
       "2022-08-29": 1440,
-      "2022-08-28": 1440,
-      "2022-08-27": 1440
+      "2022-08-28": 1440
     }
   }
 ]
