@@ -7,6 +7,8 @@ sites:
     url: https://www.powbot.org
   - name: PowBot SDN
     url: https://api.powbot.org/products
+  - name: Webwalker
+    url: https://walker.dax.cloud
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
