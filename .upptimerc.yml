@@ -9,6 +9,9 @@ sites:
     url: https://api.powbot.org/products
   - name: Webwalker
     url: https://walker.dax.cloud
+    expectedStatusCodes:
+      - 200
+      - 404
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
