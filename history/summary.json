@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.64%",
     "time": 986,
-    "timeDay": 1305,
-    "timeWeek": 1478,
-    "timeMonth": 995,
+    "timeDay": 773,
+    "timeWeek": 1459,
+    "timeMonth": 994,
     "timeYear": 1064,
     "dailyMinutesDown": {
       "2023-07-01": 16,
@@ -32,16 +32,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.powbot.org.ico",
     "slug": "pow-bot-sdn",
     "status": "up",
-    "uptime": "56.13%",
+    "uptime": "56.14%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.62%",
-    "uptimeYear": "51.28%",
-    "time": 1130,
-    "timeDay": 1262,
-    "timeWeek": 1338,
-    "timeMonth": 822,
-    "timeYear": 1328,
+    "uptimeYear": "51.33%",
+    "time": 1131,
+    "timeDay": 781,
+    "timeWeek": 1245,
+    "timeMonth": 833,
+    "timeYear": 1330,
     "dailyMinutesDown": {
       "2023-08-04": 31,
       "2023-08-03": 134,
@@ -233,8 +233,7 @@
       "2022-09-05": 1440,
       "2022-09-04": 1440,
       "2022-09-03": 1440,
-      "2022-09-02": 1440,
-      "2022-09-01": 1440
+      "2022-09-02": 1440
     }
   },
   {
@@ -243,18 +242,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/walker.dax.cloud.ico",
     "slug": "webwalker",
     "status": "down",
-    "uptime": "28.17%",
-    "uptimeDay": "28.17%",
-    "uptimeWeek": "28.17%",
-    "uptimeMonth": "28.17%",
-    "uptimeYear": "28.17%",
-    "time": 6949,
-    "timeDay": 6949,
-    "timeWeek": 6949,
-    "timeMonth": 6949,
-    "timeYear": 6949,
+    "uptime": "0.04%",
+    "uptimeDay": "0.04%",
+    "uptimeWeek": "0.04%",
+    "uptimeMonth": "0.04%",
+    "uptimeYear": "0.04%",
+    "time": 3552,
+    "timeDay": 3552,
+    "timeWeek": 3552,
+    "timeMonth": 3552,
+    "timeYear": 3552,
     "dailyMinutesDown": {
-      "2023-08-31": 0
+      "2023-09-01": 8,
+      "2023-08-31": 276
     }
   }
 ]
