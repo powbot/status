@@ -1,7 +1,7 @@
 url: https://api.powbot.org/products
-status: down
-code: 521
-responseTime: 207
-lastUpdated: 2023-11-18T20:11:25.187Z
+status: up
+code: 200
+responseTime: 12110
+lastUpdated: 2023-11-18T21:04:30.063Z
 startTime: 2021-11-15T06:14:14.000Z
 generator: Upptime <https://github.com/upptime/upptime>
