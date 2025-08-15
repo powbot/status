@@ -29,7 +29,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.powbot.org.ico",
     "slug": "pow-bot-sdn",
     "status": "up",
-    "uptime": "78.95%",
+    "uptime": "78.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.79%",
@@ -63,17 +63,19 @@
     "url": "https://walker.dax.cloud",
     "icon": "https://icons.duckduckgo.com/ip3/walker.dax.cloud.ico",
     "slug": "webwalker",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 159,
-    "timeDay": 190,
-    "timeWeek": 164,
-    "timeMonth": 152,
+    "timeDay": 150,
+    "timeWeek": 158,
+    "timeMonth": 151,
     "timeYear": 166,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-15": 0
+    }
   }
 ]
