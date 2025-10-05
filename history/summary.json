@@ -9,7 +9,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 597,
     "timeDay": 631,
     "timeWeek": 840,
@@ -25,7 +25,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.powbot.org.ico",
     "slug": "pow-bot-sdn",
     "status": "up",
-    "uptime": "79.70%",
+    "uptime": "79.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.73%",
@@ -34,7 +34,7 @@
     "timeDay": 658,
     "timeWeek": 722,
     "timeMonth": 667,
-    "timeYear": 720,
+    "timeYear": 722,
     "dailyMinutesDown": {
       "2025-09-27": 29,
       "2025-09-09": 90,
@@ -60,17 +60,19 @@
     "url": "https://walker.dax.cloud",
     "icon": "https://icons.duckduckgo.com/ip3/walker.dax.cloud.ico",
     "slug": "webwalker",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 162,
-    "timeDay": 104,
-    "timeWeek": 146,
-    "timeMonth": 158,
-    "timeYear": 170,
-    "dailyMinutesDown": {}
+    "timeDay": 109,
+    "timeWeek": 142,
+    "timeMonth": 157,
+    "timeYear": 169,
+    "dailyMinutesDown": {
+      "2025-10-05": 0
+    }
   }
 ]
