@@ -6,18 +6,16 @@
     "slug": "pow-bot-site",
     "status": "up",
     "uptime": "98.70%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 599,
-    "timeDay": 861,
-    "timeWeek": 901,
-    "timeMonth": 873,
-    "timeYear": 514,
-    "dailyMinutesDown": {
-      "2025-10-16": 8
-    }
+    "time": 600,
+    "timeDay": 1023,
+    "timeWeek": 925,
+    "timeMonth": 883,
+    "timeYear": 512,
+    "dailyMinutesDown": {}
   },
   {
     "name": "PowBot SDN",
@@ -31,10 +29,10 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.86%",
     "time": 711,
-    "timeDay": 831,
-    "timeWeek": 724,
-    "timeMonth": 691,
-    "timeYear": 723,
+    "timeDay": 608,
+    "timeWeek": 710,
+    "timeMonth": 683,
+    "timeYear": 722,
     "dailyMinutesDown": {
       "2025-09-27": 29,
       "2025-09-09": 90,
@@ -65,9 +63,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 162,
-    "timeDay": 136,
-    "timeWeek": 155,
-    "timeMonth": 143,
+    "timeDay": 226,
+    "timeWeek": 149,
+    "timeMonth": 146,
     "timeYear": 169,
     "dailyMinutesDown": {}
   }
