@@ -4,16 +4,16 @@
     "url": "https://www.powbot.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.powbot.org.ico",
     "slug": "pow-bot-site",
-    "status": "up",
+    "status": "down",
     "uptime": "98.73%",
-    "uptimeDay": "98.75%",
+    "uptimeDay": "98.74%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 608,
-    "timeDay": 712,
-    "timeWeek": 825,
-    "timeMonth": 967,
+    "time": 606,
+    "timeDay": 586,
+    "timeWeek": 763,
+    "timeMonth": 946,
     "timeYear": 553,
     "dailyMinutesDown": {
       "2025-11-18": 18
@@ -59,17 +59,19 @@
     "url": "https://walker.dax.cloud",
     "icon": "https://icons.duckduckgo.com/ip3/walker.dax.cloud.ico",
     "slug": "webwalker",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 163,
-    "timeDay": 186,
-    "timeWeek": 163,
-    "timeMonth": 144,
+    "timeDay": 126,
+    "timeWeek": 151,
+    "timeMonth": 142,
     "timeYear": 167,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-18": 0
+    }
   }
 ]
