@@ -4,19 +4,19 @@
     "url": "https://www.powbot.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.powbot.org.ico",
     "slug": "pow-bot-site",
-    "status": "down",
+    "status": "up",
     "uptime": "98.73%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.75%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 608,
-    "timeDay": 560,
-    "timeWeek": 801,
-    "timeMonth": 965,
-    "timeYear": 552,
+    "timeDay": 712,
+    "timeWeek": 825,
+    "timeMonth": 967,
+    "timeYear": 553,
     "dailyMinutesDown": {
-      "2025-11-18": 0
+      "2025-11-18": 18
     }
   },
   {
