@@ -66,19 +66,19 @@
     "url": "https://walker.dax.cloud",
     "icon": "https://icons.duckduckgo.com/ip3/walker.dax.cloud.ico",
     "slug": "webwalker",
-    "status": "down",
+    "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
+    "uptimeDay": "95.13%",
+    "uptimeWeek": "99.30%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.97%",
     "time": 161,
-    "timeDay": 137,
-    "timeWeek": 141,
+    "timeDay": 150,
+    "timeWeek": 144,
     "timeMonth": 151,
     "timeYear": 153,
     "dailyMinutesDown": {
-      "2026-04-23": 0,
+      "2026-04-23": 70,
       "2025-11-18": 105
     }
   }
